@@ -1,0 +1,46 @@
+7. Use of Font (26-28)
+<link href="css/style.css" rel="stylesheet"/>
+short font of css >>> font: italic small-caps bold 50px/150% arial;
+***** 1. font-style 2. font-variant 3. font-weight 4/5. font-size/line-height 6.font-family
+*****line-height must 3* of font-size
+===============================================
+   <!-- 26. Use of Font Part-01 -->
+   Use of Font Common Property 3- font-family, font-size,font-weight
+
+    font-family: tahoma;
+    font-size: 50px;
+    font-weight: bold;
+    ==================
+    
+    <!-- 27. Use of Font Part-02 -->
+ ****default size = font-size: 1em; or 2em or 3em  etc....
+    p2{
+    font-size: 2em;
+
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+p3{
+    text-transform: uppercase;
+}
+p4{
+    text-transform: lowercase;
+}
+========================================
+ <!-- 28. Use of Font Part-03 Line Height-->
+ 
+<link href="css/style.css" rel="stylesheet"/>
+short font of css >>> font: italic small-caps bold 50px/150% arial;
+***** 1. font-style 2. font-variant 3. font-weight 4/5. font-size/line-height 6.font-family
+*****line-height must 3* of font-size
+
+
+p5{
+    font-size: 50px;
+    line-height: 15px;
+}
+p6{
+    font-size: 30px;
+    line-height: 90px;
+}

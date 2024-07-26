@@ -1,0 +1,46 @@
+h1{
+    color:blue;
+    font-family: tahoma;
+    font-size: 50px;
+    font-weight: bold;
+}
+h2{
+    color:green;
+    font-family: poppins;
+    font-size: 50px;
+    font-weight: bold;
+}
+p{
+    color:red;
+    font-family: Times New Roman;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+p2{
+    font-size: 2em;
+
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+p3{
+    text-transform: uppercase;
+}
+p4{
+    text-transform: lowercase;
+}
+
+/* <!-- 28. Use of Font Part-03 Line Height--> */
+p5{
+    font-size: 50px;
+    line-height: 15px;
+}
+p6{
+    font-size: 30px;
+    line-height: 90px;
+}
+
+p7{
+    font: italic small-caps bold 25px/75% arial;
+}
